@@ -1,0 +1,9 @@
+title: "Yunlu's Homepage"
+description: "Learnings, thoughts, research notes, and systems logs on building useful intelligence."
+theme: minima   # simple built-in Jekyll theme
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Needed for GitHub Pages
+markdown: kramdown
